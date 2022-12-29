@@ -1,0 +1,5 @@
+ul {
+  list-style-type: none; /* gets rid of the bullet points */
+  display: flex; /* align li horizontally */
+  justify-content: space-between; /* distribute items evenly */
+}
