@@ -73,9 +73,16 @@ export default function App({ section1Ref, section2Ref, section3Ref, section4Ref
           GitHub
         </label>
       </div>
-      <div ref={section2Ref}>Section 2 content</div>
-      <div ref={section3Ref}>Section 3 content</div>
-      <div ref={section4Ref}>Section 4 content</div>
+      <div ref={section2Ref}>
+        <h2>Projects</h2>
+
+      </div>
+      <div ref={section3Ref}>
+        <h2>Resume</h2>
+      </div>
+      <div ref={section4Ref}>
+        <h2>Contact me!</h2>
+      </div>
     </div>
   );
 }
