@@ -1,11 +1,14 @@
-import NavBar from '../../components/NavBar/NavBar';
+import React from 'react';
+import Header from '../../components/Header/Header';
 import './App.css';
 
-export default function App({ section1Ref, section2Ref, section3Ref, section4Ref }) {
+export default function App() {
   return (
-    <div className="App">
-      <NavBar />
-      <div ref={section1Ref}>
+    <>
+      <Header />
+   
+    </>
+      /* <div ref={section1Ref}>
         <h2>Technical Skills</h2>
         <label>
           <img src="https://cdn-icons-png.flaticon.com/512/3097/3097978.png" width="70" height="70" />
@@ -83,6 +86,6 @@ export default function App({ section1Ref, section2Ref, section3Ref, section4Ref
       <div ref={section4Ref}>
         <h2>Contact me!</h2>
       </div>
-    </div>
+    </div> */
   );
 }
