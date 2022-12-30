@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from '../../components/Header/Header';
 import Home from '../../components/Home/Home';
+import About from '../../components/About/About';
 import './App.css';
 
 export default function App() {
@@ -10,6 +11,7 @@ export default function App() {
       
       <main className="main">
         <Home />
+        <About />
       </main>
     </>
       /* <div ref={section1Ref}>

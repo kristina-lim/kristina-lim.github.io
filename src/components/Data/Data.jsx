@@ -55,9 +55,9 @@ export default function Data() {
           ></path>
         </svg>
       </h1>
-      <h3 className="home_subtitle">Software Developer</h3>
+      <h3 className="home_subtitle">Full-Stack Developer</h3>
       <p className="home_description">
-        I'm an ambitious full-stack developer with a passion for learning and discovering new things.
+        I'm an ambitious software developer with a passion for learning and discovering new things.
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello!
