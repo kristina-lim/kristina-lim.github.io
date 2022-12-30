@@ -1,6 +1,7 @@
 import React from 'react';
 import Social from '../Social/Social';
 import Data from '../Data/Data';
+import ScrollDown from '../ScrollDown/ScrollDown';
 import './Home.css';
 
 
@@ -15,6 +16,8 @@ export default function Home() {
 
           <Data />
         </div>
+
+        <ScrollDown />
       </div>
     </section>
   );
