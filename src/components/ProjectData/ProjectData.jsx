@@ -9,24 +9,32 @@ export const projectsData = [
     image: Project1,
     title: 'Gingyman',
     category: 'game',
+    github: 'https://github.com/kristina-lim/Gingyman',
+    demo: 'https://kristina-lim.github.io/Gingyman/'
   },
   {
     id: 2,
     image: Project2,
     title: 'OOTD',
-    category: 'social'
+    category: 'social',
+    github: 'https://github.com/kristina-lim/ootd',
+    demo: 'https://ootd-fit-of-the-day.herokuapp.com/'
   },
   {
     id: 3,
     image: Project3,
     title: '[codemonk]',
-    category: 'web'
+    category: 'web',
+    github: 'https://github.com/kristina-lim/-codemonk-',
+    demo: 'http://codemonk-wars.herokuapp.com/'
   },
   {
     id: 4,
     image: Project4,
     title: "Universe's Wardrobe",
-    category: 'e-commerce'
+    category: 'e-commerce',
+    github: 'https://github.com/kristina-lim/mern-e-commerce',
+    demo: 'http://universe-wardrobe.herokuapp.com/'
   }
 ];
 

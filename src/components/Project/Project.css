@@ -47,7 +47,8 @@
 .project_button {
   color: var(--text-color);
   font-size: var(--small-font-size);
-  display: flex;
+  display: inline-block;
+  margin: 0 10px;
   align-items: center;
   column-gap: 0.25rem;
 }
