@@ -11,12 +11,9 @@ export default function Home() {
       <div className="home_container container grid">
         <div className="home_content grid">
           <Social />
-
-          <div className="home_img"></div>
-
+          <div className="home_img" />
           <Data />
         </div>
-
         <ScrollDown />
       </div>
     </section>
