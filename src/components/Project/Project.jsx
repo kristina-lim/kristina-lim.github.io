@@ -4,7 +4,7 @@ import './Project.css';
 
 export default function Project() {
   return (
-    <section className="project section" id="section" >
+    <section className="project section" id="projects" >
       <h2 className="section_title">Projects</h2>
       <span className="section_subtitle">Most recent works</span>
       <ProjectCard />

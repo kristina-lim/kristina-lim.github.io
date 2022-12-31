@@ -9,7 +9,7 @@ export default function Social() {
       <a href="https://linkedin.com/in/kristina-lim-01" className="home_social-icon" target="_blank" rel="noreferrer">
         <i className="uil uil-linkedin-alt" />
       </a>
-      <a href="mailto:kristinahlim@gmail.com" className="home_social-icon" target="_blank" rel="noreferrer">
+      <a href="mailto:khlim.developer@gmail.com" className="home_social-icon" target="_blank" rel="noreferrer">
         <i className="uil uil-envelope-alt" />
       </a>
     </div>
