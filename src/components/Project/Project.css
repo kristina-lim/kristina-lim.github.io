@@ -44,6 +44,10 @@
   margin-bottom: var(--mb-0-5);
 }
 
+.project_subtitle {
+  font-size: var(--small-font-size);
+}
+
 .project_button {
   color: var(--text-color);
   font-size: var(--small-font-size);
