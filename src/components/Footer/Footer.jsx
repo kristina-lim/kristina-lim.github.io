@@ -37,8 +37,6 @@ export default function Footer() {
           <a 
             href="mailto:khlim.developer@gmail.com" 
             className="footer_social-icon" 
-            target="_blank" 
-            rel="noreferrer"
           >
             <i className="bx bxs-envelope" />
           </a>
