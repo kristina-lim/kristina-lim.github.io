@@ -6,6 +6,7 @@ import Skills from '../../components/Skills/Skills';
 import Project from '../../components/Project/Project';
 import Contact from '../../components/Contact/Contact';
 import Footer from '../../components/Footer/Footer';
+import ScrollUp from '../../components/ScrollUp/ScrollUp';
 import './App.css';
 
 export default function App() {
@@ -18,8 +19,9 @@ export default function App() {
         <Skills />
         <Project />
         <Contact />
-        <Footer />
       </main>
+      <Footer />
+      <ScrollUp />
     </>
   );
 }
