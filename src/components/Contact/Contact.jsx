@@ -78,8 +78,8 @@ export default function Contact() {
                 cols="30" 
                 rows="10"
                 className="contact_form-input"
-                placeholder="Type your message here"
-              ></textarea>
+                placeholder="Type your message here" 
+              />
             </div>
             <button className="button button--flex">
               Send Message

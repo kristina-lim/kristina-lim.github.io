@@ -33,7 +33,8 @@ export default function Projects() {
               onClick={(evt) => {
                 handleClick(evt, index);
               }} 
-              className={`${active === index ? 'active-project' : ''} project_item`} key={index}>
+              className={`${active === index ? 'active-project' : ''} project_item`} key={index}
+            >
                 {item.name}
             </span>
           )

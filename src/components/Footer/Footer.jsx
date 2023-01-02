@@ -18,13 +18,28 @@ export default function Footer() {
           </li>
         </ul>
         <div className="footer_social">
-          <a href="https://github.com/kristina-lim" className="footer_social-icon" target="_blank" rel="noreferrer">
+          <a 
+            href="https://github.com/kristina-lim" 
+            className="footer_social-icon" 
+            target="_blank" 
+            rel="noreferrer"
+          >
             <i className="bx bxl-github" />
           </a>
-          <a href="https://linkedin.com/in/kristina-lim-01" className="footer_social-icon" target="_blank" rel="noreferrer">
+          <a 
+            href="https://linkedin.com/in/kristina-lim-01" 
+            className="footer_social-icon" 
+            target="_blank" 
+            rel="noreferrer"
+          >
             <i className="bx bxl-linkedin" />
           </a>
-          <a href="mailto:khlim.developer@gmail.com" className="footer_social-icon" target="_blank" rel="noreferrer">
+          <a 
+            href="mailto:khlim.developer@gmail.com" 
+            className="footer_social-icon" 
+            target="_blank" 
+            rel="noreferrer"
+          >
             <i className="bx bxs-envelope" />
           </a>
         </div>

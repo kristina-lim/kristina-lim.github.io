@@ -7,10 +7,20 @@ export default function ProjectCard({item}) {
       <h3 className="project_title">{item.title}</h3>
       <span className="project_subtitle">{item.content}</span>
       <br></br>
-      <a href={item.github} target="_blank" rel="noreferrer" className="project_button">
+      <a 
+        href={item.github} 
+        target="_blank" 
+        rel="noreferrer" 
+        className="project_button"
+      >
         GitHub <i class='bx bxl-github project_button-icon' />
       </a>
-      <a href={item.demo} target="_blank" rel="noreferrer" className="project_button">
+      <a 
+        href={item.demo} 
+        target="_blank" 
+        rel="noreferrer" 
+        className="project_button"
+      >
         Demo <i className="bx bx-right-arrow-alt project_button-icon" />
       </a>
     </div>
