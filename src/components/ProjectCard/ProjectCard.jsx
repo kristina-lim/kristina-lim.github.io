@@ -6,7 +6,7 @@ export default function ProjectCard({item}) {
       <img src={item.image} alt="" className="project_img" />
       <h3 className="project_title">{item.title}</h3>
       <span className="project_subtitle">{item.content}</span>
-      <br></br>
+      <br />
       <a 
         href={item.github} 
         target="_blank" 
