@@ -30,7 +30,10 @@ export default function Contact() {
               <i className="bx bx-mail-send contact_card-icon" />
               <h3 className="contact_card-title">Email</h3>
               <span className="contact_card-data">khlim.developer@gmail.com</span>
-              <a href="mailto:khlim.developer@gmail.com" className="contact_button">
+              <a 
+                href="mailto:khlim.developer@gmail.com" 
+                className="contact_button"
+              >
                 Let's chat{" "}
                 <i className="bx bx-right-arrow-alt contact_button-icon" />
               </a>
@@ -39,7 +42,12 @@ export default function Contact() {
               <i className="bx bxl-linkedin-square contact_card-icon" />
               <h3 className="contact_card-title">LinkedIn</h3>
               <span className="contact_card-data">Kristina Lim</span>
-              <a href="https://www.linkedin.com/in/kristina-lim-01/" className="contact_button">
+              <a 
+                href="https://www.linkedin.com/in/kristina-lim-01/" 
+                className="contact_button"
+                target="_blank" 
+                rel="noreferrer"
+              >
                 Connect with me{" "}
                 <i className="bx bx-right-arrow-alt contact_button-icon" />
               </a>
