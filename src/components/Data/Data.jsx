@@ -57,7 +57,7 @@ export default function Data() {
       </h1>
       <h3 className="home_subtitle">Full-Stack Developer</h3>
       <p className="home_description">
-        I'm an ambitious software developer with a passion for learning and discovering new things.
+        I am an ambitious software developer with a passion for learning and discovering new things.
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello!
