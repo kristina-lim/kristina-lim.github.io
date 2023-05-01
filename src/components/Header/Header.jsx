@@ -54,6 +54,16 @@ export default function Header() {
             </li>
             <li className="nav_item">
               <a 
+                href="#testimonials" 
+                onClick = {() => setActiveNav("#testimonials")} 
+                className={activeNav === "#testimonials" ? "nav_link active-link" : "nav_link"}
+              >
+                <i className="uil uil-file-alt nav_icon" /> 
+                Testimonials
+              </a>
+            </li>
+            <li className="nav_item">
+              <a 
                 href="#projects" 
                 onClick = {() => setActiveNav("#projects")} 
                 className={activeNav === "#projects" ? "nav_link active-link" : "nav_link"}
