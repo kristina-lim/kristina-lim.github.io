@@ -73,19 +73,6 @@ export default function FrontendSkills() {
               />
             </div>
           </div>
-          {/* <div className="skills_data">
-            <i className="bx bx-badge-check" />
-            <div>
-              <h3 className="skills_name">GitHub</h3>
-              <img 
-                className="skills_icon" 
-                src="https://cdn-icons-png.flaticon.com/512/2111/2111292.png" 
-                alt="github" 
-                width="40rem" 
-                height="40rem" 
-              />
-            </div>
-          </div> */}
         </div>
       </div>
     </div>
