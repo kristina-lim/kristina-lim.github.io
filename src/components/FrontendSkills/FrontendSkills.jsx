@@ -73,7 +73,7 @@ export default function FrontendSkills() {
               />
             </div>
           </div>
-          <div className="skills_data">
+          {/* <div className="skills_data">
             <i className="bx bx-badge-check" />
             <div>
               <h3 className="skills_name">GitHub</h3>
@@ -85,7 +85,7 @@ export default function FrontendSkills() {
                 height="40rem" 
               />
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
