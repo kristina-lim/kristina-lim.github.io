@@ -13,10 +13,10 @@ export default function About() {
         <div className="about_data">
           <Info />
           <p className="about_description">
-            A full-stack developer, my strong communication skills and positive 
-            attitude makes me an effective team player and I am always looking 
+            As a full-stack developer, my strong communication skills and positive 
+            attitude makes me an effective team player as I am always looking 
             for ways to contribute to the success of the team. I am looking to 
-            expand my skill set and gain even more knowledge in the software industry.
+            expand my skill set and gain more knowledge in the software industry.
           </p>
         </div>
       </div>
