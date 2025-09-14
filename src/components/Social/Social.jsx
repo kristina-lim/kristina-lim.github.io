@@ -20,7 +20,7 @@ export default function Social() {
         <i className="uil uil-linkedin-alt" />
       </a>
       <a 
-        href="mailto:khlim.developer@gmail.com" 
+        href="mailto:klim7@dons.usfca.edu" 
         className="home_social-icon" 
       >
         <i className="uil uil-envelope-alt" />
